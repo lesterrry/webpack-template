@@ -5,4 +5,4 @@ Handcrafted by Aydar N.
 me@aydar.media
 *************************/
 
-
+import './style.css'
